@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+  main.cpp
+C:\Users\Shawn\source\repos\ds_assignment2\Stack.cpp(29,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ds_assignment2.vcxproj -> C:\Users\Shawn\source\repos\ds_assignment2\x64\Debug\ds_assignment2.exe
