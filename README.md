@@ -1,2 +1,2 @@
 # DS-Assignment-2
-The instructions to the program are built in
+All instructions for the program are implemented into the application
